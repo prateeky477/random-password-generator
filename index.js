@@ -4,6 +4,8 @@ let pass2 = document.getElementById("pass2")
 var a = ""
 var b = ""
 function getRandom() {
+    pass1.innerText = ""
+    pass2.innerText = ""
     for (let i = 0; i < 20; i++) {
         a += characters[Math.floor(Math.random() * characters.length)]
         b += characters[Math.floor(Math.random() * characters.length)]
