@@ -1,1 +1,1 @@
-[go to app](https://6309a01b94f02830010aa406--prismatic-torrone-d5174f.netlify.app/)
+[go to app](https://prismatic-torrone-d5174f.netlify.app/)
